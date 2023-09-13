@@ -1,4 +1,7 @@
-### Hi there 👋
+## 팀 개발을 위한 Git GitHub 시작하기 개정판
+
+### :octocat: 안녕하세요? 고양이입니다. 🐱
+- 🔭지금 열심히 공부중입니다.
 
 <!--
 **2keikim/2keikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
